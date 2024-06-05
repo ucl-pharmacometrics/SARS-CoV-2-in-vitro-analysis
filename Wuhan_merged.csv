@@ -1,0 +1,529 @@
+"coord","od","virus_control_od","cell_control_od","drug1_conc","drug2_conc","drug3_conc","drug4_conc","drug1_name","drug2_name","drug3_name","drug4_name","viral_percent_inh","run_info","run"
+"a1",0.104,0.1375,0.649875,0.25,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-7.58368061321122,"Wuhan.csv / Wuhan_platemap.csv",1
+"a2",0.128,0.1375,0.649875,0.5,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-2.08794023786741,"Wuhan.csv / Wuhan_platemap.csv",1
+"a3",0.163,0.1375,0.649875,1,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",5.50558819557743,"Wuhan.csv / Wuhan_platemap.csv",1
+"a4",0.211,0.1375,0.649875,2,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",15.5684270172828,"Wuhan.csv / Wuhan_platemap.csv",1
+"a5",0.341,0.1375,0.649875,4,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",42.1663965167781,"Wuhan.csv / Wuhan_platemap.csv",1
+"a6",0.568,0.1375,0.649875,8,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",90.6976172468564,"Wuhan.csv / Wuhan_platemap.csv",1
+"a7",0.74,0.1375,0.649875,16,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",126.780432300995,"Wuhan.csv / Wuhan_platemap.csv",1
+"a8",0.704,0.1375,0.649875,32,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",120.394106004186,"Wuhan.csv / Wuhan_platemap.csv",1
+"a9",0.53,0.1375,0.649875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",82.4767179020716,"Wuhan.csv / Wuhan_platemap.csv",1
+"a10",0.609,0.1375,0.649875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",93.7746993868319,"Wuhan.csv / Wuhan_platemap.csv",1
+"a11",0.139,0.1375,0.649875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",0.292908286322297,"Wuhan.csv / Wuhan_platemap.csv",1
+"a12",0.13,0.1375,0.649875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-1.54355010604366,"Wuhan.csv / Wuhan_platemap.csv",1
+"b1",0.148,0.1375,0.649875,0,1,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",2.2222724438138,"Wuhan.csv / Wuhan_platemap.csv",1
+"b2",0.137,0.1375,0.649875,0,2,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-0.103457064707484,"Wuhan.csv / Wuhan_platemap.csv",1
+"b3",0.149,0.1375,0.649875,0,4,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",2.26247989123823,"Wuhan.csv / Wuhan_platemap.csv",1
+"b4",0.142,0.1375,0.649875,0,8,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",0.905376900356217,"Wuhan.csv / Wuhan_platemap.csv",1
+"b5",0.164,0.1375,0.649875,0,16,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",5.49424472670216,"Wuhan.csv / Wuhan_platemap.csv",1
+"b6",0.214,0.1375,0.649875,0,32,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",14.6999799661726,"Wuhan.csv / Wuhan_platemap.csv",1
+"b7",0.244,0.1375,0.649875,0,64,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",22.0835323836659,"Wuhan.csv / Wuhan_platemap.csv",1
+"b8",0.231,0.1375,0.649875,0,128,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",18.6102011009404,"Wuhan.csv / Wuhan_platemap.csv",1
+"b9",0.877,0.1375,0.649875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",151.3066509875,"Wuhan.csv / Wuhan_platemap.csv",1
+"b10",0.709,0.1375,0.649875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",110.586723548008,"Wuhan.csv / Wuhan_platemap.csv",1
+"b11",0.128,0.1375,0.649875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-1.82907856989202,"Wuhan.csv / Wuhan_platemap.csv",1
+"b12",0.15,0.1375,0.649875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",2.48961631681136,"Wuhan.csv / Wuhan_platemap.csv",1
+"c1",0.132,0.1375,0.649875,0,0,0.03125,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-1.15580251209931,"Wuhan.csv / Wuhan_platemap.csv",1
+"c2",0.135,0.1375,0.649875,0,0,0.0625,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-0.492105827623835,"Wuhan.csv / Wuhan_platemap.csv",1
+"c3",0.14,0.1375,0.649875,0,0,0.125,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",0.48809942389653,"Wuhan.csv / Wuhan_platemap.csv",1
+"c4",0.172,0.1375,0.649875,0,0,0.25,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",6.68720881650232,"Wuhan.csv / Wuhan_platemap.csv",1
+"c5",0.174,0.1375,0.649875,0,0,0.5,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",7.07303102176244,"Wuhan.csv / Wuhan_platemap.csv",1
+"c6",0.198,0.1375,0.649875,0,0,1,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",11.9517212051689,"Wuhan.csv / Wuhan_platemap.csv",1
+"c7",0.695,0.1375,0.649875,0,0,2,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",108.278038644491,"Wuhan.csv / Wuhan_platemap.csv",1
+"c8",0.708,0.1375,0.649875,0,0,4,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",106.138506470988,"Wuhan.csv / Wuhan_platemap.csv",1
+"c9",0.612,0.1375,0.649875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",91.2141819018931,"Wuhan.csv / Wuhan_platemap.csv",1
+"c10",0.567,0.1375,0.649875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",78.5958620699377,"Wuhan.csv / Wuhan_platemap.csv",1
+"c11",0.127,0.1375,0.649875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-1.92319069316,"Wuhan.csv / Wuhan_platemap.csv",1
+"c12",0.141,0.1375,0.649875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",0.656681615822082,"Wuhan.csv / Wuhan_platemap.csv",1
+"d1",0.124,0.1375,0.649875,0,0,0,0.03125,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-2.66003702698688,"Wuhan.csv / Wuhan_platemap.csv",1
+"d2",0.16,0.1375,0.649875,0,0,0,0.0625,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",4.47247348190105,"Wuhan.csv / Wuhan_platemap.csv",1
+"d3",0.222,0.1375,0.649875,0,0,0,0.125,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",17.3094936061106,"Wuhan.csv / Wuhan_platemap.csv",1
+"d4",0.32,0.1375,0.649875,0,0,0,0.25,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",33.2595155807163,"Wuhan.csv / Wuhan_platemap.csv",1
+"d5",0.754,0.1375,0.649875,0,0,0,0.5,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",118.229762853562,"Wuhan.csv / Wuhan_platemap.csv",1
+"d6",0.559,0.1375,0.649875,0,0,0,1,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",74.4612734425026,"Wuhan.csv / Wuhan_platemap.csv",1
+"d7",0.706,0.1375,0.649875,0,0,0,2,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",101.250586305129,"Wuhan.csv / Wuhan_platemap.csv",1
+"d8",0.525,0.1375,0.649875,0,0,0,4,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",70.3309759390462,"Wuhan.csv / Wuhan_platemap.csv",1
+"d9",0.593,0.1375,0.649875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",87.3101286164747,"Wuhan.csv / Wuhan_platemap.csv",1
+"d10",0.702,0.1375,0.649875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",108.038671678259,"Wuhan.csv / Wuhan_platemap.csv",1
+"d11",0.14,0.1375,0.649875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",0.473161762734096,"Wuhan.csv / Wuhan_platemap.csv",1
+"d12",0.145,0.1375,0.649875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",1.40701689954881,"Wuhan.csv / Wuhan_platemap.csv",1
+"e1",0.636,0.1375,0.649875,0,0,2,0.125,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",103.665157589323,"Wuhan.csv / Wuhan_platemap.csv",1
+"e2",0.602,0.1375,0.649875,0,0,2,0.5,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",88.3315670512418,"Wuhan.csv / Wuhan_platemap.csv",1
+"e3",0.758,0.1375,0.649875,0,0,2,2,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",125.922309919935,"Wuhan.csv / Wuhan_platemap.csv",1
+"e4",0.996,0.1375,0.649875,32,0,0,0.125,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",164.417486184665,"Wuhan.csv / Wuhan_platemap.csv",1
+"e5",0.817,0.1375,0.649875,32,0,0,0.5,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",124.237070455221,"Wuhan.csv / Wuhan_platemap.csv",1
+"e6",0.543,0.1375,0.649875,32,0,0,2,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",75.4043206685044,"Wuhan.csv / Wuhan_platemap.csv",1
+"e7",0.961,0.1375,0.649875,32,0,0.125,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",142.201514510705,"Wuhan.csv / Wuhan_platemap.csv",1
+"e8",0.754,0.1375,0.649875,32,0,0.5,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",114.179113635749,"Wuhan.csv / Wuhan_platemap.csv",1
+"e9",0.721,0.1375,0.649875,32,0,2,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",105.201580765407,"Wuhan.csv / Wuhan_platemap.csv",1
+"e10",0.249,0.1375,0.649875,0,32,0.125,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",21.0911522124737,"Wuhan.csv / Wuhan_platemap.csv",1
+"e11",0.436,0.1375,0.649875,0,32,0.5,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",56.5069018942563,"Wuhan.csv / Wuhan_platemap.csv",1
+"e12",0.625,0.1375,0.649875,0,32,2,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",91.2532723907124,"Wuhan.csv / Wuhan_platemap.csv",1
+"f1",0.15,0.1375,0.649875,0,0,0.5,0.125,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",2.50499696263377,"Wuhan.csv / Wuhan_platemap.csv",1
+"f2",0.567,0.1375,0.649875,0,0,0.5,0.5,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",83.6778080046084,"Wuhan.csv / Wuhan_platemap.csv",1
+"f3",0.716,0.1375,0.649875,0,0,0.5,2,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",112.319428531337,"Wuhan.csv / Wuhan_platemap.csv",1
+"f4",0.649,0.1375,0.649875,4,0,0,0.125,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",97.3693246437068,"Wuhan.csv / Wuhan_platemap.csv",1
+"f5",0.745,0.1375,0.649875,4,0,0,0.5,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",117.343286716865,"Wuhan.csv / Wuhan_platemap.csv",1
+"f6",0.529,0.1375,0.649875,4,0,0,2,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",72.6533007697583,"Wuhan.csv / Wuhan_platemap.csv",1
+"f7",0.591,0.1375,0.649875,4,0,0.125,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",83.6283037424536,"Wuhan.csv / Wuhan_platemap.csv",1
+"f8",0.62,0.1375,0.649875,4,0,0.5,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",88.3896370501179,"Wuhan.csv / Wuhan_platemap.csv",1
+"f9",0.616,0.1375,0.649875,4,0,2,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",85.4186785828723,"Wuhan.csv / Wuhan_platemap.csv",1
+"f10",0.213,0.1375,0.649875,0,4,0.125,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",14.5208988849043,"Wuhan.csv / Wuhan_platemap.csv",1
+"f11",0.685,0.1375,0.649875,0,4,0.5,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",102.545107233044,"Wuhan.csv / Wuhan_platemap.csv",1
+"f12",0.668,0.1375,0.649875,0,4,2,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",102.499411526153,"Wuhan.csv / Wuhan_platemap.csv",1
+"g1",0.182,0.1375,0.649875,0,0,0.125,0.125,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",9.64773163554392,"Wuhan.csv / Wuhan_platemap.csv",1
+"g2",0.665,0.1375,0.649875,0,0,0.125,0.5,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",109.249530208423,"Wuhan.csv / Wuhan_platemap.csv",1
+"g3",0.65,0.1375,0.649875,0,0,0.125,2,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",100.794099777019,"Wuhan.csv / Wuhan_platemap.csv",1
+"g4",0.18,0.1375,0.649875,0.5,0,0,0.125,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",8.3067413779068,"Wuhan.csv / Wuhan_platemap.csv",1
+"g5",0.764,0.1375,0.649875,0.5,0,0,0.5,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",121.728607309666,"Wuhan.csv / Wuhan_platemap.csv",1
+"g6",0.508,0.1375,0.649875,0.5,0,0,2,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",71.3186399213562,"Wuhan.csv / Wuhan_platemap.csv",1
+"g7",0.165,0.1375,0.649875,0.5,0,0.125,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",5.37501325837079,"Wuhan.csv / Wuhan_platemap.csv",1
+"g8",0.197,0.1375,0.649875,0.5,0,0.5,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",11.3500183958095,"Wuhan.csv / Wuhan_platemap.csv",1
+"g9",0.573,0.1375,0.649875,0.5,0,2,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",79.9772192654587,"Wuhan.csv / Wuhan_platemap.csv",1
+"g10",0.185,0.1375,0.649875,0,0.5,0.125,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",8.42038490897646,"Wuhan.csv / Wuhan_platemap.csv",1
+"g11",0.955,0.1375,0.649875,0,0.5,0.5,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",157.147191714009,"Wuhan.csv / Wuhan_platemap.csv",1
+"g12",0.791,0.1375,0.649875,0,0.5,2,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",124.588728633167,"Wuhan.csv / Wuhan_platemap.csv",1
+"h1",0.136,0.1375,0.649875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-0.320287074662215,"Wuhan.csv / Wuhan_platemap.csv",1
+"h2",0.166,0.1375,0.649875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",6.00278264677148,"Wuhan.csv / Wuhan_platemap.csv",1
+"h3",0.153,0.1375,0.649875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",3.21702217991481,"Wuhan.csv / Wuhan_platemap.csv",1
+"h4",0.154,0.1375,0.649875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",3.31937514542608,"Wuhan.csv / Wuhan_platemap.csv",1
+"h5",0.188,0.1375,0.649875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",9.99009839135323,"Wuhan.csv / Wuhan_platemap.csv",1
+"h6",0.264,0.1375,0.649875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",24.6884465697015,"Wuhan.csv / Wuhan_platemap.csv",1
+"h7",0.257,0.1375,0.649875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",23.609170478331,"Wuhan.csv / Wuhan_platemap.csv",1
+"h8",0.106,0.1375,0.649875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-5.78278572397251,"Wuhan.csv / Wuhan_platemap.csv",1
+"h9",0.528,0.1375,0.649875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",76.7896376578982,"Wuhan.csv / Wuhan_platemap.csv",1
+"h10",0.497,0.1375,0.649875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",68.6992010662338,"Wuhan.csv / Wuhan_platemap.csv",1
+"h11",0.461,0.1375,0.649875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",64.189407413066,"Wuhan.csv / Wuhan_platemap.csv",1
+"h12",0.424,0.1375,0.649875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",57.1669376645373,"Wuhan.csv / Wuhan_platemap.csv",1
+"a1",0.12,0.143125,0.684125,0.25,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-4.95801270122981,"Wuhan.csv / Wuhan_platemap.csv",2
+"a2",0.125,0.143125,0.684125,0.5,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-3.77279441117109,"Wuhan.csv / Wuhan_platemap.csv",2
+"a3",0.176,0.143125,0.684125,1,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",6.72233221611634,"Wuhan.csv / Wuhan_platemap.csv",2
+"a4",0.221,0.143125,0.684125,2,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",15.6223413118397,"Wuhan.csv / Wuhan_platemap.csv",2
+"a5",0.33,0.143125,0.684125,4,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",36.6727895900415,"Wuhan.csv / Wuhan_platemap.csv",2
+"a6",0.567,0.143125,0.684125,8,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",84.5767886074663,"Wuhan.csv / Wuhan_platemap.csv",2
+"a7",0.815,0.143125,0.684125,16,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",133.898072380636,"Wuhan.csv / Wuhan_platemap.csv",2
+"a8",0.688,0.143125,0.684125,32,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",109.671266862433,"Wuhan.csv / Wuhan_platemap.csv",2
+"a9",0.568,0.143125,0.684125,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",84.5558292210204,"Wuhan.csv / Wuhan_platemap.csv",2
+"a10",0.595,0.143125,0.684125,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",85.116344642769,"Wuhan.csv / Wuhan_platemap.csv",2
+"a11",0.135,0.143125,0.684125,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-1.50263823294595,"Wuhan.csv / Wuhan_platemap.csv",2
+"a12",0.126,0.143125,0.684125,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-3.33795682455404,"Wuhan.csv / Wuhan_platemap.csv",2
+"b1",0.124,0.143125,0.684125,0,1,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-3.83354099639254,"Wuhan.csv / Wuhan_platemap.csv",2
+"b2",0.134,0.143125,0.684125,0,2,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-1.78819010520023,"Wuhan.csv / Wuhan_platemap.csv",2
+"b3",0.171,0.143125,0.684125,0,4,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",5.1938861999301,"Wuhan.csv / Wuhan_platemap.csv",2
+"b4",0.182,0.143125,0.684125,0,8,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",7.40760752611039,"Wuhan.csv / Wuhan_platemap.csv",2
+"b5",0.175,0.143125,0.684125,0,16,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",6.25897166908088,"Wuhan.csv / Wuhan_platemap.csv",2
+"b6",0.199,0.143125,0.684125,0,32,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",10.1686549331302,"Wuhan.csv / Wuhan_platemap.csv",2
+"b7",0.305,0.143125,0.684125,0,64,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",31.7899161418163,"Wuhan.csv / Wuhan_platemap.csv",2
+"b8",0.29,0.143125,0.684125,0,128,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",27.6871339028187,"Wuhan.csv / Wuhan_platemap.csv",2
+"b9",0.651,0.143125,0.684125,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",98.4163698909702,"Wuhan.csv / Wuhan_platemap.csv",2
+"b10",0.723,0.143125,0.684125,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",106.270275883675,"Wuhan.csv / Wuhan_platemap.csv",2
+"b11",0.162,0.143125,0.684125,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",3.44180596287362,"Wuhan.csv / Wuhan_platemap.csv",2
+"b12",0.16,0.143125,0.684125,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",3.18314818196008,"Wuhan.csv / Wuhan_platemap.csv",2
+"c1",0.118,0.143125,0.684125,0,0,0.03125,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-5.00054893041141,"Wuhan.csv / Wuhan_platemap.csv",2
+"c2",0.134,0.143125,0.684125,0,0,0.0625,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-1.70114776435302,"Wuhan.csv / Wuhan_platemap.csv",2
+"c3",0.149,0.143125,0.684125,0,0,0.125,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",1.08634263299374,"Wuhan.csv / Wuhan_platemap.csv",2
+"c4",0.17,0.143125,0.684125,0,0,0.25,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",4.93361128567204,"Wuhan.csv / Wuhan_platemap.csv",2
+"c5",0.199,0.143125,0.684125,0,0,0.5,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",10.2546513849901,"Wuhan.csv / Wuhan_platemap.csv",2
+"c6",0.203,0.143125,0.684125,0,0,1,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",11.202405058152,"Wuhan.csv / Wuhan_platemap.csv",2
+"c7",0.716,0.143125,0.684125,0,0,2,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",105.377052092251,"Wuhan.csv / Wuhan_platemap.csv",2
+"c8",0.816,0.143125,0.684125,0,0,4,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",118.561144346452,"Wuhan.csv / Wuhan_platemap.csv",2
+"c9",0.614,0.143125,0.684125,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",85.7279522391593,"Wuhan.csv / Wuhan_platemap.csv",2
+"c10",0.718,0.143125,0.684125,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",99.6324024057335,"Wuhan.csv / Wuhan_platemap.csv",2
+"c11",0.146,0.143125,0.684125,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",0.49872548900582,"Wuhan.csv / Wuhan_platemap.csv",2
+"c12",0.137,0.143125,0.684125,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-1.08838756947684,"Wuhan.csv / Wuhan_platemap.csv",2
+"d1",0.133,0.143125,0.684125,0,0,0,0.03125,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-1.88946830642662,"Wuhan.csv / Wuhan_platemap.csv",2
+"d2",0.148,0.143125,0.684125,0,0,0,0.0625,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",0.917762994570474,"Wuhan.csv / Wuhan_platemap.csv",2
+"d3",0.202,0.143125,0.684125,0,0,0,0.125,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",11.422186317823,"Wuhan.csv / Wuhan_platemap.csv",2
+"d4",0.36,0.143125,0.684125,0,0,0,0.25,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",37.4328771592265,"Wuhan.csv / Wuhan_platemap.csv",2
+"d5",0.735,0.143125,0.684125,0,0,0,0.5,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",107.501469299971,"Wuhan.csv / Wuhan_platemap.csv",2
+"d6",0.653,0.143125,0.684125,0,0,0,1,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",85.3075098307894,"Wuhan.csv / Wuhan_platemap.csv",2
+"d7",0.579,0.143125,0.684125,0,0,0,2,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",73.5224049060023,"Wuhan.csv / Wuhan_platemap.csv",2
+"d8",0.529,0.143125,0.684125,0,0,0,4,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",66.3303434086371,"Wuhan.csv / Wuhan_platemap.csv",2
+"d9",0.637,0.143125,0.684125,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",89.6569489405122,"Wuhan.csv / Wuhan_platemap.csv",2
+"d10",0.967,0.143125,0.684125,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",149.336951147601,"Wuhan.csv / Wuhan_platemap.csv",2
+"d11",0.139,0.143125,0.684125,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-0.73940818114317,"Wuhan.csv / Wuhan_platemap.csv",2
+"d12",0.14,0.143125,0.684125,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-0.555237433692484,"Wuhan.csv / Wuhan_platemap.csv",2
+"e1",0.703,0.143125,0.684125,0,0,2,0.125,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",110.267973004835,"Wuhan.csv / Wuhan_platemap.csv",2
+"e2",0.648,0.143125,0.684125,0,0,2,0.5,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",90.9294887331236,"Wuhan.csv / Wuhan_platemap.csv",2
+"e3",0.604,0.143125,0.684125,0,0,2,2,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",88.5798035509081,"Wuhan.csv / Wuhan_platemap.csv",2
+"e4",0.809,0.143125,0.684125,32,0,0,0.125,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",120.778902914038,"Wuhan.csv / Wuhan_platemap.csv",2
+"e5",0.902,0.143125,0.684125,32,0,0,0.5,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",131.408256466493,"Wuhan.csv / Wuhan_platemap.csv",2
+"e6",0.476,0.143125,0.684125,32,0,0,2,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",58.6242390792978,"Wuhan.csv / Wuhan_platemap.csv",2
+"e7",0.847,0.143125,0.684125,32,0,0.125,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",115.113650067979,"Wuhan.csv / Wuhan_platemap.csv",2
+"e8",0.831,0.143125,0.684125,32,0,0.5,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",120.657348812684,"Wuhan.csv / Wuhan_platemap.csv",2
+"e9",0.615,0.143125,0.684125,32,0,2,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",80.5747636763732,"Wuhan.csv / Wuhan_platemap.csv",2
+"e10",0.233,0.143125,0.684125,0,32,0.125,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",16.1010800120786,"Wuhan.csv / Wuhan_platemap.csv",2
+"e11",0.434,0.143125,0.684125,0,32,0.5,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",52.149989331847,"Wuhan.csv / Wuhan_platemap.csv",2
+"e12",0.438,0.143125,0.684125,0,32,2,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",52.2760118232002,"Wuhan.csv / Wuhan_platemap.csv",2
+"f1",0.169,0.143125,0.684125,0,0,0.5,0.125,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",4.91098056334571,"Wuhan.csv / Wuhan_platemap.csv",2
+"f2",0.727,0.143125,0.684125,0,0,0.5,0.5,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",107.735212692769,"Wuhan.csv / Wuhan_platemap.csv",2
+"f3",0.624,0.143125,0.684125,0,0,0.5,2,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",88.4248613256336,"Wuhan.csv / Wuhan_platemap.csv",2
+"f4",0.474,0.143125,0.684125,4,0,0,0.125,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",59.6528421263812,"Wuhan.csv / Wuhan_platemap.csv",2
+"f5",0.766,0.143125,0.684125,4,0,0,0.5,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",113.947167121826,"Wuhan.csv / Wuhan_platemap.csv",2
+"f6",0.506,0.143125,0.684125,4,0,0,2,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",63.7780590862611,"Wuhan.csv / Wuhan_platemap.csv",2
+"f7",0.52,0.143125,0.684125,4,0,0.125,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",65.8209266661178,"Wuhan.csv / Wuhan_platemap.csv",2
+"f8",0.66,0.143125,0.684125,4,0,0.5,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",89.6768254779082,"Wuhan.csv / Wuhan_platemap.csv",2
+"f9",0.659,0.143125,0.684125,4,0,2,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",87.2179861475696,"Wuhan.csv / Wuhan_platemap.csv",2
+"f10",0.202,0.143125,0.684125,0,4,0.125,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",10.7242797910969,"Wuhan.csv / Wuhan_platemap.csv",2
+"f11",0.692,0.143125,0.684125,0,4,0.5,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",97.3632217767152,"Wuhan.csv / Wuhan_platemap.csv",2
+"f12",0.656,0.143125,0.684125,0,4,2,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",93.8508434344468,"Wuhan.csv / Wuhan_platemap.csv",2
+"g1",0.14,0.143125,0.684125,0,0,0.125,0.125,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-0.641661365859338,"Wuhan.csv / Wuhan_platemap.csv",2
+"g2",0.649,0.143125,0.684125,0,0,0.125,0.5,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",99.2272596736204,"Wuhan.csv / Wuhan_platemap.csv",2
+"g3",0.588,0.143125,0.684125,0,0,0.125,2,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",82.8647659221394,"Wuhan.csv / Wuhan_platemap.csv",2
+"g4",0.18,0.143125,0.684125,0.5,0,0,0.125,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",6.82597124597137,"Wuhan.csv / Wuhan_platemap.csv",2
+"g5",0.682,0.143125,0.684125,0.5,0,0,0.5,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",99.1631422401841,"Wuhan.csv / Wuhan_platemap.csv",2
+"g6",0.578,0.143125,0.684125,0.5,0,0,2,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",79.2811512663628,"Wuhan.csv / Wuhan_platemap.csv",2
+"g7",0.155,0.143125,0.684125,0.5,0,0.125,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",2.19821987678109,"Wuhan.csv / Wuhan_platemap.csv",2
+"g8",0.187,0.143125,0.684125,0.5,0,0.5,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",7.92660825781332,"Wuhan.csv / Wuhan_platemap.csv",2
+"g9",0.7,0.143125,0.684125,0.5,0,2,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",96.8559997525927,"Wuhan.csv / Wuhan_platemap.csv",2
+"g10",0.176,0.143125,0.684125,0,0.5,0.125,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",5.51943676799681,"Wuhan.csv / Wuhan_platemap.csv",2
+"g11",0.787,0.143125,0.684125,0,0.5,0.5,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",117.2225304589,"Wuhan.csv / Wuhan_platemap.csv",2
+"g12",0.556,0.143125,0.684125,0,0.5,2,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",74.5491017724065,"Wuhan.csv / Wuhan_platemap.csv",2
+"h1",0.129,0.143125,0.684125,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-2.85645427548458,"Wuhan.csv / Wuhan_platemap.csv",2
+"h2",0.12,0.143125,0.684125,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-4.61296506914027,"Wuhan.csv / Wuhan_platemap.csv",2
+"h3",0.138,0.143125,0.684125,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-1.00741147392505,"Wuhan.csv / Wuhan_platemap.csv",2
+"h4",0.149,0.143125,0.684125,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",1.11936295701663,"Wuhan.csv / Wuhan_platemap.csv",2
+"h5",0.173,0.143125,0.684125,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",5.59727916089309,"Wuhan.csv / Wuhan_platemap.csv",2
+"h6",0.188,0.143125,0.684125,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",8.29465575607158,"Wuhan.csv / Wuhan_platemap.csv",2
+"h7",0.232,0.143125,0.684125,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",16.6296497703899,"Wuhan.csv / Wuhan_platemap.csv",2
+"h8",0.108,0.143125,0.684125,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-6.10707910633627,"Wuhan.csv / Wuhan_platemap.csv",2
+"h9",0.39,0.143125,0.684125,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",45.9779241298403,"Wuhan.csv / Wuhan_platemap.csv",2
+"h10",0.44,0.143125,0.684125,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",53.7300302345949,"Wuhan.csv / Wuhan_platemap.csv",2
+"h11",0.441,0.143125,0.684125,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",55.9775392228683,"Wuhan.csv / Wuhan_platemap.csv",2
+"h12",0.379,0.143125,0.684125,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",44.5751570013127,"Wuhan.csv / Wuhan_platemap.csv",2
+"a1",0.139,0.13625,0.713625,0.25,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",0.552456232319267,"Wuhan.csv / Wuhan_platemap.csv",3
+"a2",0.127,0.13625,0.713625,0.5,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-1.80412301760284,"Wuhan.csv / Wuhan_platemap.csv",3
+"a3",0.154,0.13625,0.713625,1,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",3.40088429923017,"Wuhan.csv / Wuhan_platemap.csv",3
+"a4",0.181,0.13625,0.713625,2,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",8.41163446423432,"Wuhan.csv / Wuhan_platemap.csv",3
+"a5",0.272,0.13625,0.713625,4,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",24.9615683675946,"Wuhan.csv / Wuhan_platemap.csv",3
+"a6",0.627,0.13625,0.713625,8,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",91.7514605336916,"Wuhan.csv / Wuhan_platemap.csv",3
+"a7",0.795,0.13625,0.713625,16,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",123.011513325771,"Wuhan.csv / Wuhan_platemap.csv",3
+"a8",0.758,0.13625,0.713625,32,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",117.26031648235,"Wuhan.csv / Wuhan_platemap.csv",3
+"a9",0.621,0.13625,0.713625,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",90.3939746648318,"Wuhan.csv / Wuhan_platemap.csv",3
+"a10",0.552,0.13625,0.713625,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",73.3780552666939,"Wuhan.csv / Wuhan_platemap.csv",3
+"a11",0.129,0.13625,0.713625,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-1.25634339696246,"Wuhan.csv / Wuhan_platemap.csv",3
+"a12",0.134,0.13625,0.713625,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-0.410933874302205,"Wuhan.csv / Wuhan_platemap.csv",3
+"b1",0.148,0.13625,0.713625,0,1,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",2.20686529303427,"Wuhan.csv / Wuhan_platemap.csv",3
+"b2",0.176,0.13625,0.713625,0,2,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",7.29889703502062,"Wuhan.csv / Wuhan_platemap.csv",3
+"b3",0.15,0.13625,0.713625,0,4,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",2.40059856302513,"Wuhan.csv / Wuhan_platemap.csv",3
+"b4",0.147,0.13625,0.713625,0,8,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",1.91935503507356,"Wuhan.csv / Wuhan_platemap.csv",3
+"b5",0.155,0.13625,0.713625,0,16,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",3.44979552281269,"Wuhan.csv / Wuhan_platemap.csv",3
+"b6",0.253,0.13625,0.713625,0,32,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",19.9086656496869,"Wuhan.csv / Wuhan_platemap.csv",3
+"b7",0.285,0.13625,0.713625,0,64,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",27.3719580118579,"Wuhan.csv / Wuhan_platemap.csv",3
+"b8",0.302,0.13625,0.713625,0,128,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",29.2767556751503,"Wuhan.csv / Wuhan_platemap.csv",3
+"b9",0.895,0.13625,0.713625,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",137.76804657404,"Wuhan.csv / Wuhan_platemap.csv",3
+"b10",0.985,0.13625,0.713625,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",145.745951428895,"Wuhan.csv / Wuhan_platemap.csv",3
+"b11",0.157,0.13625,0.713625,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",3.54533120527884,"Wuhan.csv / Wuhan_platemap.csv",3
+"b12",0.148,0.13625,0.713625,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",2.07677874987079,"Wuhan.csv / Wuhan_platemap.csv",3
+"c1",0.162,0.13625,0.713625,0,0,0.03125,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",4.80206610246993,"Wuhan.csv / Wuhan_platemap.csv",3
+"c2",0.174,0.13625,0.713625,0,0,0.0625,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",6.59425005200141,"Wuhan.csv / Wuhan_platemap.csv",3
+"c3",0.147,0.13625,0.713625,0,0,0.125,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",1.86254471006128,"Wuhan.csv / Wuhan_platemap.csv",3
+"c4",0.146,0.13625,0.713625,0,0,0.25,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",1.67710541621544,"Wuhan.csv / Wuhan_platemap.csv",3
+"c5",0.177,0.13625,0.713625,0,0,0.5,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",7.00761554832674,"Wuhan.csv / Wuhan_platemap.csv",3
+"c6",0.195,0.13625,0.713625,0,0,1,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",10.2994232649343,"Wuhan.csv / Wuhan_platemap.csv",3
+"c7",0.829,0.13625,0.713625,0,0,2,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",119.39936006171,"Wuhan.csv / Wuhan_platemap.csv",3
+"c8",1.029,0.13625,0.713625,0,0,4,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",147.393094984704,"Wuhan.csv / Wuhan_platemap.csv",3
+"c9",0.694,0.13625,0.713625,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",95.1471284063766,"Wuhan.csv / Wuhan_platemap.csv",3
+"c10",0.609,0.13625,0.713625,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",76.7711431120359,"Wuhan.csv / Wuhan_platemap.csv",3
+"c11",0.146,0.13625,0.713625,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",1.58477503582124,"Wuhan.csv / Wuhan_platemap.csv",3
+"c12",0.122,0.13625,0.713625,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-2.37263883285684,"Wuhan.csv / Wuhan_platemap.csv",3
+"d1",0.139,0.13625,0.713625,0,0,0,0.03125,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",0.480857687289261,"Wuhan.csv / Wuhan_platemap.csv",3
+"d2",0.151,0.13625,0.713625,0,0,0,0.0625,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",2.60187981847065,"Wuhan.csv / Wuhan_platemap.csv",3
+"d3",0.168,0.13625,0.713625,0,0,0,0.125,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",5.77166797227673,"Wuhan.csv / Wuhan_platemap.csv",3
+"d4",0.324,0.13625,0.713625,0,0,0,0.25,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",30.3642775458077,"Wuhan.csv / Wuhan_platemap.csv",3
+"d5",0.79,0.13625,0.713625,0,0,0,0.5,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",111.25906233453,"Wuhan.csv / Wuhan_platemap.csv",3
+"d6",0.643,0.13625,0.713625,0,0,0,1,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",79.4431751925345,"Wuhan.csv / Wuhan_platemap.csv",3
+"d7",0.612,0.13625,0.713625,0,0,0,2,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",75.192726161165,"Wuhan.csv / Wuhan_platemap.csv",3
+"d8",0.489,0.13625,0.713625,0,0,0,4,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",56.8161649146131,"Wuhan.csv / Wuhan_platemap.csv",3
+"d9",0.617,0.13625,0.713625,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",81.7759307144643,"Wuhan.csv / Wuhan_platemap.csv",3
+"d10",0.736,0.13625,0.713625,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",101.862774793262,"Wuhan.csv / Wuhan_platemap.csv",3
+"d11",0.139,0.13625,0.713625,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",0.461883323661348,"Wuhan.csv / Wuhan_platemap.csv",3
+"d12",0.115,0.13625,0.713625,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-3.5377483802865,"Wuhan.csv / Wuhan_platemap.csv",3
+"e1",0.696,0.13625,0.713625,0,0,2,0.125,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",103.297951210894,"Wuhan.csv / Wuhan_platemap.csv",3
+"e2",0.719,0.13625,0.713625,0,0,2,0.5,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",98.3427741341957,"Wuhan.csv / Wuhan_platemap.csv",3
+"e3",0.533,0.13625,0.713625,0,0,2,2,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",71.4509138017316,"Wuhan.csv / Wuhan_platemap.csv",3
+"e4",0.746,0.13625,0.713625,32,0,0,0.125,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",103.630947623546,"Wuhan.csv / Wuhan_platemap.csv",3
+"e5",0.879,0.13625,0.713625,32,0,0,0.5,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",120.513127591475,"Wuhan.csv / Wuhan_platemap.csv",3
+"e6",0.484,0.13625,0.713625,32,0,0,2,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",57.3855393559516,"Wuhan.csv / Wuhan_platemap.csv",3
+"e7",0.817,0.13625,0.713625,32,0,0.125,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",104.317753149943,"Wuhan.csv / Wuhan_platemap.csv",3
+"e8",0.731,0.13625,0.713625,32,0,0.5,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",97.7502761856888,"Wuhan.csv / Wuhan_platemap.csv",3
+"e9",0.598,0.13625,0.713625,32,0,2,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",73.8785333911513,"Wuhan.csv / Wuhan_platemap.csv",3
+"e10",0.22,0.13625,0.713625,0,32,0.125,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",14.0585396582071,"Wuhan.csv / Wuhan_platemap.csv",3
+"e11",0.407,0.13625,0.713625,0,32,0.5,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",45.4836786781411,"Wuhan.csv / Wuhan_platemap.csv",3
+"e12",0.404,0.13625,0.713625,0,32,2,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",44.4767723216954,"Wuhan.csv / Wuhan_platemap.csv",3
+"f1",0.206,0.13625,0.713625,0,0,0.5,0.125,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",12.4042742212782,"Wuhan.csv / Wuhan_platemap.csv",3
+"f2",0.722,0.13625,0.713625,0,0,0.5,0.5,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",101.271998450813,"Wuhan.csv / Wuhan_platemap.csv",3
+"f3",0.622,0.13625,0.713625,0,0,0.5,2,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",83.693992782391,"Wuhan.csv / Wuhan_platemap.csv",3
+"f4",0.701,0.13625,0.713625,4,0,0,0.125,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",95.4031502137542,"Wuhan.csv / Wuhan_platemap.csv",3
+"f5",0.799,0.13625,0.713625,4,0,0,0.5,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",113.603486101974,"Wuhan.csv / Wuhan_platemap.csv",3
+"f6",0.472,0.13625,0.713625,4,0,0,2,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",55.2929245057806,"Wuhan.csv / Wuhan_platemap.csv",3
+"f7",0.62,0.13625,0.713625,4,0,0.125,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",79.1638542701379,"Wuhan.csv / Wuhan_platemap.csv",3
+"f8",0.785,0.13625,0.713625,4,0,0.5,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",105.465729217861,"Wuhan.csv / Wuhan_platemap.csv",3
+"f9",0.615,0.13625,0.713625,4,0,2,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",75.8419777340488,"Wuhan.csv / Wuhan_platemap.csv",3
+"f10",0.161,0.13625,0.713625,0,4,0.125,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",4.22427038935999,"Wuhan.csv / Wuhan_platemap.csv",3
+"f11",0.674,0.13625,0.713625,0,4,0.5,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",89.3801738771345,"Wuhan.csv / Wuhan_platemap.csv",3
+"f12",0.445,0.13625,0.713625,0,4,2,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",52.9386553684277,"Wuhan.csv / Wuhan_platemap.csv",3
+"g1",0.195,0.13625,0.713625,0,0,0.125,0.125,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",11.3032421214673,"Wuhan.csv / Wuhan_platemap.csv",3
+"g2",1.02,0.13625,0.713625,0,0,0.125,0.5,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",162.426354464867,"Wuhan.csv / Wuhan_platemap.csv",3
+"g3",0.821,0.13625,0.713625,0,0,0.125,2,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",119.509722413431,"Wuhan.csv / Wuhan_platemap.csv",3
+"g4",0.213,0.13625,0.713625,0.5,0,0,0.125,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",13.3122081463625,"Wuhan.csv / Wuhan_platemap.csv",3
+"g5",0.778,0.13625,0.713625,0.5,0,0,0.5,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",110.654074820308,"Wuhan.csv / Wuhan_platemap.csv",3
+"g6",0.856,0.13625,0.713625,0.5,0,0,2,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",122.94941585281,"Wuhan.csv / Wuhan_platemap.csv",3
+"g7",0.183,0.13625,0.713625,0.5,0,0.125,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",8.10883413905718,"Wuhan.csv / Wuhan_platemap.csv",3
+"g8",0.2,0.13625,0.713625,0.5,0,0.5,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",10.7916970442944,"Wuhan.csv / Wuhan_platemap.csv",3
+"g9",0.864,0.13625,0.713625,0.5,0,2,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",118.601535261296,"Wuhan.csv / Wuhan_platemap.csv",3
+"g10",0.161,0.13625,0.713625,0,0.5,0.125,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",3.89352971872194,"Wuhan.csv / Wuhan_platemap.csv",3
+"g11",0.681,0.13625,0.713625,0,0.5,0.5,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",92.9278861028762,"Wuhan.csv / Wuhan_platemap.csv",3
+"g12",0.481,0.13625,0.713625,0,0.5,2,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",58.3266983104346,"Wuhan.csv / Wuhan_platemap.csv",3
+"h1",0.138,0.13625,0.713625,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",0.331601249667423,"Wuhan.csv / Wuhan_platemap.csv",3
+"h2",0.121,0.13625,0.713625,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-2.85041147779403,"Wuhan.csv / Wuhan_platemap.csv",3
+"h3",0.137,0.13625,0.713625,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",0.138138131233588,"Wuhan.csv / Wuhan_platemap.csv",3
+"h4",0.162,0.13625,0.713625,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",4.59705376433786,"Wuhan.csv / Wuhan_platemap.csv",3
+"h5",0.157,0.13625,0.713625,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",3.64272548857712,"Wuhan.csv / Wuhan_platemap.csv",3
+"h6",0.185,0.13625,0.713625,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",8.4432143506736,"Wuhan.csv / Wuhan_platemap.csv",3
+"h7",0.214,0.13625,0.713625,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",13.6314852084038,"Wuhan.csv / Wuhan_platemap.csv",3
+"h8",0.105,0.13625,0.713625,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-5.09104017450423,"Wuhan.csv / Wuhan_platemap.csv",3
+"h9",0.394,0.13625,0.713625,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",44.979042920376,"Wuhan.csv / Wuhan_platemap.csv",3
+"h10",0.439,0.13625,0.713625,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",51.3413045531935,"Wuhan.csv / Wuhan_platemap.csv",3
+"h11",0.439,0.13625,0.713625,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",53.3093256993135,"Wuhan.csv / Wuhan_platemap.csv",3
+"h12",0.418,0.13625,0.713625,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",49.8900779970922,"Wuhan.csv / Wuhan_platemap.csv",3
+"a1",0.14,0.14075,0.647625,0.25,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-0.171626185657388,"Wuhan.csv / Wuhan_platemap.csv",4
+"a2",0.134,0.14075,0.647625,0.5,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-1.49963404468492,"Wuhan.csv / Wuhan_platemap.csv",4
+"a3",0.158,0.14075,0.647625,1,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",3.76478086831402,"Wuhan.csv / Wuhan_platemap.csv",4
+"a4",0.22,0.14075,0.647625,2,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",16.9685107014921,"Wuhan.csv / Wuhan_platemap.csv",4
+"a5",0.313,0.14075,0.647625,4,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",36.0784910408925,"Wuhan.csv / Wuhan_platemap.csv",4
+"a6",0.576,0.14075,0.647625,8,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",92.6933464397289,"Wuhan.csv / Wuhan_platemap.csv",4
+"a7",0.645,0.14075,0.647625,16,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",107.257616985084,"Wuhan.csv / Wuhan_platemap.csv",4
+"a8",0.699,0.14075,0.647625,32,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",119.928141481529,"Wuhan.csv / Wuhan_platemap.csv",4
+"a9",0.545,0.14075,0.647625,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",85.8674957899764,"Wuhan.csv / Wuhan_platemap.csv",4
+"a10",0.542,0.14075,0.647625,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",80.668891412554,"Wuhan.csv / Wuhan_platemap.csv",4
+"a11",0.139,0.14075,0.647625,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-0.345434338653741,"Wuhan.csv / Wuhan_platemap.csv",4
+"a12",0.143,0.14075,0.647625,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",0.468089658545471,"Wuhan.csv / Wuhan_platemap.csv",4
+"b1",0.144,0.14075,0.647625,0,1,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",0.695309915527606,"Wuhan.csv / Wuhan_platemap.csv",4
+"b2",0.14,0.14075,0.647625,0,2,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-0.156869485167433,"Wuhan.csv / Wuhan_platemap.csv",4
+"b3",0.156,0.14075,0.647625,0,4,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",3.03280013684296,"Wuhan.csv / Wuhan_platemap.csv",4
+"b4",0.17,0.14075,0.647625,0,8,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",5.94880627488065,"Wuhan.csv / Wuhan_platemap.csv",4
+"b5",0.168,0.14075,0.647625,0,16,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",5.71104645019656,"Wuhan.csv / Wuhan_platemap.csv",4
+"b6",0.217,0.14075,0.647625,0,32,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",14.810926117042,"Wuhan.csv / Wuhan_platemap.csv",4
+"b7",0.274,0.14075,0.647625,0,64,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",27.9301463997179,"Wuhan.csv / Wuhan_platemap.csv",4
+"b8",0.247,0.14075,0.647625,0,128,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",21.3774280665718,"Wuhan.csv / Wuhan_platemap.csv",4
+"b9",0.613,0.14075,0.647625,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",97.6739759818198,"Wuhan.csv / Wuhan_platemap.csv",4
+"b10",0.684,0.14075,0.647625,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",106.260914951784,"Wuhan.csv / Wuhan_platemap.csv",4
+"b11",0.148,0.14075,0.647625,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",1.41102212136826,"Wuhan.csv / Wuhan_platemap.csv",4
+"b12",0.142,0.14075,0.647625,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",0.251663064922559,"Wuhan.csv / Wuhan_platemap.csv",4
+"c1",0.149,0.14075,0.647625,0,0,0.03125,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",1.75251584356167,"Wuhan.csv / Wuhan_platemap.csv",4
+"c2",0.172,0.14075,0.647625,0,0,0.0625,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",6.21806962832953,"Wuhan.csv / Wuhan_platemap.csv",4
+"c3",0.144,0.14075,0.647625,0,0,0.125,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",0.641414402001835,"Wuhan.csv / Wuhan_platemap.csv",4
+"c4",0.156,0.14075,0.647625,0,0,0.25,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",2.98801444855953,"Wuhan.csv / Wuhan_platemap.csv",4
+"c5",0.177,0.14075,0.647625,0,0,0.5,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",7.10080798766891,"Wuhan.csv / Wuhan_platemap.csv",4
+"c6",0.216,0.14075,0.647625,0,0,1,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",15.026873945253,"Wuhan.csv / Wuhan_platemap.csv",4
+"c7",0.612,0.14075,0.647625,0,0,2,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",92.519639437676,"Wuhan.csv / Wuhan_platemap.csv",4
+"c8",0.757,0.14075,0.647625,0,0,4,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",115.894096859526,"Wuhan.csv / Wuhan_platemap.csv",4
+"c9",0.66,0.14075,0.647625,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",100.899662954468,"Wuhan.csv / Wuhan_platemap.csv",4
+"c10",0.833,0.14075,0.647625,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",128.052050681437,"Wuhan.csv / Wuhan_platemap.csv",4
+"c11",0.16,0.14075,0.647625,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",3.56410789822816,"Wuhan.csv / Wuhan_platemap.csv",4
+"c12",0.126,0.14075,0.647625,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-2.79747293732657,"Wuhan.csv / Wuhan_platemap.csv",4
+"d1",0.144,0.14075,0.647625,0,0,0,0.03125,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",0.647327912759965,"Wuhan.csv / Wuhan_platemap.csv",4
+"d2",0.134,0.14075,0.647625,0,0,0,0.0625,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-1.35630102113285,"Wuhan.csv / Wuhan_platemap.csv",4
+"d3",0.199,0.14075,0.647625,0,0,0,0.125,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",12.0617588993844,"Wuhan.csv / Wuhan_platemap.csv",4
+"d4",0.274,0.14075,0.647625,0,0,0,0.25,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",24.5475033619022,"Wuhan.csv / Wuhan_platemap.csv",4
+"d5",0.517,0.14075,0.647625,0,0,0,0.5,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",72.9385803169525,"Wuhan.csv / Wuhan_platemap.csv",4
+"d6",0.604,0.14075,0.647625,0,0,0,1,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",82.7247318506122,"Wuhan.csv / Wuhan_platemap.csv",4
+"d7",0.771,0.14075,0.647625,0,0,0,2,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",113.466325749655,"Wuhan.csv / Wuhan_platemap.csv",4
+"d8",0.726,0.14075,0.647625,0,0,0,4,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",107.375059917408,"Wuhan.csv / Wuhan_platemap.csv",4
+"d9",0.669,0.14075,0.647625,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",102.353526895058,"Wuhan.csv / Wuhan_platemap.csv",4
+"d10",0.635,0.14075,0.647625,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",95.620063429064,"Wuhan.csv / Wuhan_platemap.csv",4
+"d11",0.151,0.14075,0.647625,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",1.96101338306608,"Wuhan.csv / Wuhan_platemap.csv",4
+"d12",0.117,0.14075,0.647625,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-4.50389984191373,"Wuhan.csv / Wuhan_platemap.csv",4
+"e1",0.654,0.14075,0.647625,0,0,2,0.125,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",107.890614681044,"Wuhan.csv / Wuhan_platemap.csv",4
+"e2",0.772,0.14075,0.647625,0,0,2,0.5,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",121.344100784713,"Wuhan.csv / Wuhan_platemap.csv",4
+"e3",0.768,0.14075,0.647625,0,0,2,2,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",128.673355269137,"Wuhan.csv / Wuhan_platemap.csv",4
+"e4",1.02,0.14075,0.647625,32,0,0,0.125,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",170.218649742375,"Wuhan.csv / Wuhan_platemap.csv",4
+"e5",0.848,0.14075,0.647625,32,0,0,0.5,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",130.71389529281,"Wuhan.csv / Wuhan_platemap.csv",4
+"e6",0.463,0.14075,0.647625,32,0,0,2,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",60.5738752649888,"Wuhan.csv / Wuhan_platemap.csv",4
+"e7",0.821,0.14075,0.647625,32,0,0.125,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",118.739776892252,"Wuhan.csv / Wuhan_platemap.csv",4
+"e8",0.826,0.14075,0.647625,32,0,0.5,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",128.289079895899,"Wuhan.csv / Wuhan_platemap.csv",4
+"e9",0.604,0.14075,0.647625,32,0,2,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",84.4274929044262,"Wuhan.csv / Wuhan_platemap.csv",4
+"e10",0.235,0.14075,0.647625,0,32,0.125,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",18.0216212119436,"Wuhan.csv / Wuhan_platemap.csv",4
+"e11",0.337,0.14075,0.647625,0,32,0.5,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",37.5537997898817,"Wuhan.csv / Wuhan_platemap.csv",4
+"e12",0.4,0.14075,0.647625,0,32,2,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",49.0545902279709,"Wuhan.csv / Wuhan_platemap.csv",4
+"f1",0.163,0.14075,0.647625,0,0,0.5,0.125,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",4.50727717354077,"Wuhan.csv / Wuhan_platemap.csv",4
+"f2",0.338,0.14075,0.647625,0,0,0.5,0.5,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",38.846437635537,"Wuhan.csv / Wuhan_platemap.csv",4
+"f3",0.917,0.14075,0.647625,0,0,0.5,2,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",152.349205883727,"Wuhan.csv / Wuhan_platemap.csv",4
+"f4",0.608,0.14075,0.647625,4,0,0,0.125,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",89.911012742014,"Wuhan.csv / Wuhan_platemap.csv",4
+"f5",0.709,0.14075,0.647625,4,0,0,0.5,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",110.95285205074,"Wuhan.csv / Wuhan_platemap.csv",4
+"f6",0.506,0.14075,0.647625,4,0,0,2,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",68.5173989301801,"Wuhan.csv / Wuhan_platemap.csv",4
+"f7",0.446,0.14075,0.647625,4,0,0.125,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",56.9008467103005,"Wuhan.csv / Wuhan_platemap.csv",4
+"f8",0.509,0.14075,0.647625,4,0,0.5,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",68.1920659713145,"Wuhan.csv / Wuhan_platemap.csv",4
+"f9",0.632,0.14075,0.647625,4,0,2,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",88.6462829278579,"Wuhan.csv / Wuhan_platemap.csv",4
+"f10",0.166,0.14075,0.647625,0,4,0.125,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",4.90902215191081,"Wuhan.csv / Wuhan_platemap.csv",4
+"f11",0.275,0.14075,0.647625,0,4,0.5,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",25.4174614881463,"Wuhan.csv / Wuhan_platemap.csv",4
+"f12",0.549,0.14075,0.647625,0,4,2,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",79.7350437669635,"Wuhan.csv / Wuhan_platemap.csv",4
+"g1",0.162,0.14075,0.647625,0,0,0.125,0.125,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",4.65705318416443,"Wuhan.csv / Wuhan_platemap.csv",4
+"g2",0.313,0.14075,0.647625,0,0,0.125,0.5,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",36.0614681961257,"Wuhan.csv / Wuhan_platemap.csv",4
+"g3",0.74,0.14075,0.647625,0,0,0.125,2,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",119.134169910252,"Wuhan.csv / Wuhan_platemap.csv",4
+"g4",0.212,0.14075,0.647625,0.5,0,0,0.125,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",14.0771159480546,"Wuhan.csv / Wuhan_platemap.csv",4
+"g5",0.442,0.14075,0.647625,0.5,0,0,0.5,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",59.1678370373838,"Wuhan.csv / Wuhan_platemap.csv",4
+"g6",0.469,0.14075,0.647625,0.5,0,0,2,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",63.8714292703431,"Wuhan.csv / Wuhan_platemap.csv",4
+"g7",0.175,0.14075,0.647625,0.5,0,0.125,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",6.76697359132491,"Wuhan.csv / Wuhan_platemap.csv",4
+"g8",0.193,0.14075,0.647625,0.5,0,0.5,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",10.0751832570272,"Wuhan.csv / Wuhan_platemap.csv",4
+"g9",0.544,0.14075,0.647625,0.5,0,2,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",74.8582338587225,"Wuhan.csv / Wuhan_platemap.csv",4
+"g10",0.179,0.14075,0.647625,0,0.5,0.125,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",6.85420096633119,"Wuhan.csv / Wuhan_platemap.csv",4
+"g11",0.286,0.14075,0.647625,0,0.5,0.5,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",28.2242274885126,"Wuhan.csv / Wuhan_platemap.csv",4
+"g12",0.78,0.14075,0.647625,0,0.5,2,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",123.194397707914,"Wuhan.csv / Wuhan_platemap.csv",4
+"h1",0.138,0.14075,0.647625,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-0.593564484564096,"Wuhan.csv / Wuhan_platemap.csv",4
+"h2",0.127,0.14075,0.647625,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-2.92750412919158,"Wuhan.csv / Wuhan_platemap.csv",4
+"h3",0.172,0.14075,0.647625,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",6.55630937287243,"Wuhan.csv / Wuhan_platemap.csv",4
+"h4",0.191,0.14075,0.647625,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",10.2186969433225,"Wuhan.csv / Wuhan_platemap.csv",4
+"h5",0.199,0.14075,0.647625,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",11.6482686090202,"Wuhan.csv / Wuhan_platemap.csv",4
+"h6",0.169,0.14075,0.647625,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",5.5732529016928,"Wuhan.csv / Wuhan_platemap.csv",4
+"h7",0.278,0.14075,0.647625,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",27.4102019796226,"Wuhan.csv / Wuhan_platemap.csv",4
+"h8",0.284,0.14075,0.647625,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",26.583259869471,"Wuhan.csv / Wuhan_platemap.csv",4
+"h9",0.384,0.14075,0.647625,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",48.3527844871828,"Wuhan.csv / Wuhan_platemap.csv",4
+"h10",0.359,0.14075,0.647625,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",42.1593691700591,"Wuhan.csv / Wuhan_platemap.csv",4
+"h11",0.478,0.14075,0.647625,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",67.643815990396,"Wuhan.csv / Wuhan_platemap.csv",4
+"h12",0.442,0.14075,0.647625,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",60.7623297830574,"Wuhan.csv / Wuhan_platemap.csv",4
+"a1",0.176,0.24275,1.347875,0.25,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-7.00588533795107,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"a2",0.21,0.24275,1.347875,0.5,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-3.33720042858758,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"a3",0.233,0.24275,1.347875,1,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-0.975988470088338,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"a4",0.252,0.24275,1.347875,2,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",0.908396927242262,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"a5",0.93,0.24275,1.347875,4,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",66.0227106782935,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"a6",1.293,0.24275,1.347875,8,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",102.586907906997,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"a7",1.195,0.24275,1.347875,16,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",92.9014914262045,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"a8",0.979,0.24275,1.347875,32,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",72.5449436217822,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"a9",1.171,0.24275,1.347875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",90.4343028020892,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"a10",1.256,0.24275,1.347875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",93.4323180275949,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"a11",0.289,0.24275,1.347875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",4.18724780647913,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"a12",0.308,0.24275,1.347875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",6.22610602835139,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"b1",0.192,0.24275,1.347875,0,2,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-4.97989947721961,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"b2",0.242,0.24275,1.347875,0,4,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-0.0719495263379672,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"b3",0.206,0.24275,1.347875,0,8,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-3.35212927394911,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"b4",0.192,0.24275,1.347875,0,16,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-4.73401326305289,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"b5",0.241,0.24275,1.347875,0,32,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-0.168219641276029,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"b6",0.521,0.24275,1.347875,0,64,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",24.7894566912822,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"b7",0.441,0.24275,1.347875,0,128,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",19.0593751471173,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"b8",0.31,0.24275,1.347875,0,256,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",6.20594999178324,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"b9",1.584,0.24275,1.347875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",127.234856144374,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"b10",1.491,0.24275,1.347875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",111.986290423993,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"b11",0.255,0.24275,1.347875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",1.09350650927015,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"b12",0.232,0.24275,1.347875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-0.99267572254772,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"c1",0.185,0.24275,1.347875,0,0,0.03125,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-5.62664429583735,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"c2",0.167,0.24275,1.347875,0,0,0.0625,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-6.91317680795521,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"c3",0.2,0.24275,1.347875,0,0,0.125,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-3.8697323955703,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"c4",0.302,0.24275,1.347875,0,0,0.25,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",5.32464517138185,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"c5",0.43,0.24275,1.347875,0,0,0.5,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",16.8232946936944,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"c6",0.8,0.24275,1.347875,0,0,1,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",51.038944462993,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"c7",1.262,0.24275,1.347875,0,0,2,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",91.7809939223318,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"c8",1.119,0.24275,1.347875,0,0,4,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",75.5826095362284,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"c9",1.164,0.24275,1.347875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",82.1069990273336,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"c10",1.36,0.24275,1.347875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",94.7901923908642,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"c11",0.196,0.24275,1.347875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-3.97000626891524,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"c12",0.192,0.24275,1.347875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-4.41468161714666,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"d1",0.175,0.24275,1.347875,0,0,0,0.03125,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-6.18927444660358,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"d2",0.223,0.24275,1.347875,0,0,0,0.0625,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-1.82015714082454,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"d3",0.25,0.24275,1.347875,0,0,0,0.125,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",0.688560631127559,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"d4",0.31,0.24275,1.347875,0,0,0,0.25,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",5.68227001598729,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"d5",0.391,0.24275,1.347875,0,0,0,0.5,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",13.1815040472375,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"d6",1.357,0.24275,1.347875,0,0,0,1,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",91.2624347263318,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"d7",1.053,0.24275,1.347875,0,0,0,2,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",66.9056270239177,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"d8",0.9,0.24275,1.347875,0,0,0,4,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",55.3072493196027,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"d9",1.414,0.24275,1.347875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",104.088410906189,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"d10",1.343,0.24275,1.347875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",97.6299787254001,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"d11",0.302,0.24275,1.347875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",5.19917594741492,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"d12",0.168,0.24275,1.347875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-6.50168276252281,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"e1",1.121,0.24275,1.347875,0,0,2,0.125,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",84.6763902502485,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"e2",1.313,0.24275,1.347875,0,0,2,0.5,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",94.3608797037067,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"e3",0.972,0.24275,1.347875,0,0,2,2,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",68.6141774706811,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"e4",1.145,0.24275,1.347875,32,0,0,0.125,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",80.1144993183541,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"e5",1.345,0.24275,1.347875,32,0,0,0.5,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",93.4368903222879,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"e6",1.19,0.24275,1.347875,32,0,0,2,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",81.6669835529856,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"e7",1.479,0.24275,1.347875,32,0,0.125,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",98.9745305929278,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"e8",1.442,0.24275,1.347875,32,0,0.5,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",102.9769065166,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"e9",1.291,0.24275,1.347875,32,0,2,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",87.6239453996799,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"e10",0.395,0.24275,1.347875,0,32,0.125,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",13.3523979562272,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"e11",0.431,0.24275,1.347875,0,32,0.5,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",16.5222303995386,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"e12",0.381,0.24275,1.347875,0,32,2,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",11.9981833724477,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"f1",0.185,0.24275,1.347875,0,0,0.5,0.125,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-5.36569159373845,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"f2",0.261,0.24275,1.347875,0,0,0.5,0.5,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",1.64849078354743,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"f3",1.396,0.24275,1.347875,0,0,0.5,2,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",103.812945349494,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"f4",0.373,0.24275,1.347875,4,0,0,0.125,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",11.4955771222566,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"f5",0.584,0.24275,1.347875,4,0,0,0.5,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",30.560549149495,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"f6",1.416,0.24275,1.347875,4,0,0,2,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",100.946362476162,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"f7",0.699,0.24275,1.347875,4,0,0.125,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",39.0081542943202,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"f8",0.798,0.24275,1.347875,4,0,0.5,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",47.1594930448394,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"f9",1.391,0.24275,1.347875,4,0,2,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",95.0350676893381,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"f10",0.255,0.24275,1.347875,0,4,0.125,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",1.09234334236407,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"f11",0.408,0.24275,1.347875,0,4,0.5,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",14.3498980619247,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"f12",0.963,0.24275,1.347875,0,4,2,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",64.5202109230538,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"g1",0.171,0.24275,1.347875,0,0,0.125,0.125,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-7.2121314995413,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"g2",0.221,0.24275,1.347875,0,0,0.125,0.5,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-2.08849241905665,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"g3",1.26,0.24275,1.347875,0,0,0.125,2,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",92.7567379243623,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"g4",0.285,0.24275,1.347875,0.5,0,0,0.125,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",3.82864412560381,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"g5",0.26,0.24275,1.347875,0.5,0,0,0.5,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",1.55395058799274,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"g6",1.237,0.24275,1.347875,0.5,0,0,2,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",88.7333682838782,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"g7",0.215,0.24275,1.347875,0.5,0,0.125,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-2.51470103897426,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"g8",0.419,0.24275,1.347875,0.5,0,0.5,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",15.5878153684838,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"g9",1.095,0.24275,1.347875,0.5,0,2,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",72.5640774755671,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"g10",0.275,0.24275,1.347875,0,0.5,0.125,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",2.65060236619125,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"g11",0.329,0.24275,1.347875,0,0.5,0.5,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",7.68695775895125,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"g12",0.97,0.24275,1.347875,0,0.5,2,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",64.2825978897322,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"h1",0.134,0.24275,1.347875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-10.7659893824715,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"h2",0.191,0.24275,1.347875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-5.05352758014104,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"h3",0.182,0.24275,1.347875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-5.84581634222412,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"h4",0.173,0.24275,1.347875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-6.50568652796599,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"h5",0.169,0.24275,1.347875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-6.76420778378206,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"h6",0.163,0.24275,1.347875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-7.21623152060063,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"h7",0.205,0.24275,1.347875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-3.45785124801112,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"h8",0.198,0.24275,1.347875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-3.80886968200002,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"h9",0.499,0.24275,1.347875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",23.3626434978342,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"h10",0.507,0.24275,1.347875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",23.4123126718535,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"h11",0.508,0.24275,1.347875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",24.4017515892841,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"h12",0.547,0.24275,1.347875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",28.1466956271683,"vero efflux_old.csv / vero efflux_platemap.csv",5
+"e1",0.292,0.329625,1.5231875,0.25,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-3.35882149691859,"vero efflux.csv / vero efflux.csv",6
+"e2",0.315,0.329625,1.5231875,0.5,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-1.19390248856246,"vero efflux.csv / vero efflux.csv",6
+"e3",0.377,0.329625,1.5231875,1,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",4.12717500610092,"vero efflux.csv / vero efflux.csv",6
+"e4",0.676,0.329625,1.5231875,2,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",28.4771818825319,"vero efflux.csv / vero efflux.csv",6
+"e5",1.477,0.329625,1.5231875,4,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",90.0554269902552,"vero efflux.csv / vero efflux.csv",6
+"e6",1.507,0.329625,1.5231875,8,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",93.9859528826343,"vero efflux.csv / vero efflux.csv",6
+"e7",1.755,0.329625,1.5231875,16,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",105.660465954495,"vero efflux.csv / vero efflux.csv",6
+"e8",1.586,0.329625,1.5231875,32,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",99.8885337517672,"vero efflux.csv / vero efflux.csv",6
+"e9",1.706,0.329625,1.5231875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",106.527306635073,"vero efflux.csv / vero efflux.csv",6
+"e10",1.552,0.329625,1.5231875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",99.2596326512216,"vero efflux.csv / vero efflux.csv",6
+"e11",0.266,0.329625,1.5231875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-5.17044261777983,"vero efflux.csv / vero efflux.csv",6
+"e12",0.291,0.329625,1.5231875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-3.10373823061549,"vero efflux.csv / vero efflux.csv",6
+"f1",0.266,0.329625,1.5231875,0,2,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-5.47353313909666,"vero efflux.csv / vero efflux.csv",6
+"f2",0.325,0.329625,1.5231875,0,4,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-0.386813506275233,"vero efflux.csv / vero efflux.csv",6
+"f3",0.314,0.329625,1.5231875,0,8,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-1.30230981524889,"vero efflux.csv / vero efflux.csv",6
+"f4",0.336,0.329625,1.5231875,0,16,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",0.52095411718469,"vero efflux.csv / vero efflux.csv",6
+"f5",0.347,0.329625,1.5231875,0,32,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",1.44071986794486,"vero efflux.csv / vero efflux.csv",6
+"f6",0.423,0.329625,1.5231875,0,64,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",7.43869863051994,"vero efflux.csv / vero efflux.csv",6
+"f7",0.48,0.329625,1.5231875,0,128,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",11.9040406924892,"vero efflux.csv / vero efflux.csv",6
+"f8",0.346,0.329625,1.5231875,0,256,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",1.28773976698629,"vero efflux.csv / vero efflux.csv",6
+"f9",1.59,0.329625,1.5231875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",96.5858380947689,"vero efflux.csv / vero efflux.csv",6
+"f10",1.521,0.329625,1.5231875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",98.3643662223605,"vero efflux.csv / vero efflux.csv",6
+"f11",0.271,0.329625,1.5231875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-4.71364033709013,"vero efflux.csv / vero efflux.csv",6
+"f12",0.291,0.329625,1.5231875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-3.2036660732625,"vero efflux.csv / vero efflux.csv",6
+"g1",0.236,0.329625,1.5231875,0,0,0.03125,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-8.7136437479729,"vero efflux.csv / vero efflux.csv",6
+"g2",0.246,0.329625,1.5231875,0,0,0.0625,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-7.43491505136969,"vero efflux.csv / vero efflux.csv",6
+"g3",0.253,0.329625,1.5231875,0,0,0.125,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-6.46925833546627,"vero efflux.csv / vero efflux.csv",6
+"g4",0.33,0.329625,1.5231875,0,0,0.25,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",0.0314641347190732,"vero efflux.csv / vero efflux.csv",6
+"g5",0.443,0.329625,1.5231875,0,0,0.5,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",9.45652650020797,"vero efflux.csv / vero efflux.csv",6
+"g6",0.874,0.329625,1.5231875,0,0,1,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",44.9837625766557,"vero efflux.csv / vero efflux.csv",6
+"g7",1.678,0.329625,1.5231875,0,0,2,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",113.135865512417,"vero efflux.csv / vero efflux.csv",6
+"g8",1.57,0.329625,1.5231875,0,0,4,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",101.572319465042,"vero efflux.csv / vero efflux.csv",6
+"g9",1.599,0.329625,1.5231875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",100.071600863528,"vero efflux.csv / vero efflux.csv",6
+"g10",1.7,0.329625,1.5231875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",104.284683547537,"vero efflux.csv / vero efflux.csv",6
+"g11",0.298,0.329625,1.5231875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-2.609709479729,"vero efflux.csv / vero efflux.csv",6
+"g12",0.274,0.329625,1.5231875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-4.55245804474012,"vero efflux.csv / vero efflux.csv",6
+"h1",0.269,0.329625,1.5231875,0,0,0,0.03125,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-5.55702910347701,"vero efflux.csv / vero efflux.csv",6
+"h2",0.348,0.329625,1.5231875,0,0,0,0.0625,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",1.66141402395347,"vero efflux.csv / vero efflux.csv",6
+"h3",0.467,0.329625,1.5231875,0,0,0,0.125,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",12.2397579193342,"vero efflux.csv / vero efflux.csv",6
+"h4",1.283,0.329625,1.5231875,0,0,0,0.25,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",82.3339438416007,"vero efflux.csv / vero efflux.csv",6
+"h5",1.696,0.329625,1.5231875,0,0,0,0.5,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",116.035548803115,"vero efflux.csv / vero efflux.csv",6
+"h6",1.362,0.329625,1.5231875,0,0,0,1,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",86.4935024889944,"vero efflux.csv / vero efflux.csv",6
+"h7",1.298,0.329625,1.5231875,0,0,0,2,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",82.1294960027225,"vero efflux.csv / vero efflux.csv",6
+"h8",1.27,0.329625,1.5231875,0,0,0,4,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",74.1089034215978,"vero efflux.csv / vero efflux.csv",6
+"h9",1.556,0.329625,1.5231875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",103.525571037385,"vero efflux.csv / vero efflux.csv",6
+"h10",1.606,0.329625,1.5231875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",104.706549201886,"vero efflux.csv / vero efflux.csv",6
+"h11",0.276,0.329625,1.5231875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-4.56771661874684,"vero efflux.csv / vero efflux.csv",6
+"h12",0.267,0.329625,1.5231875,0,0,0,0,"Remdesivir","Favipiravir","Nirmatrelvir","EIDD-1931",-5.36427219597261,"vero efflux.csv / vero efflux.csv",6
